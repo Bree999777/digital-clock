@@ -1,0 +1,20 @@
+body{
+	background-color: #E3DCC2;
+}
+
+#johnny {
+	color: #601700;
+	font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
+	font-size: 2em;
+	margin-left: inherit;
+}
+
+#txt {
+	text-align:center;
+	color: #2F9133;
+	margin-top: auto;
+	font-size:10em;
+	text-shadow: 1px 5px 10px #2F9134;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+
+}
